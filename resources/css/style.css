@@ -30,11 +30,10 @@ h1.travelguide {
 body {
   background-color: black;
 }
-.video {
-  text-align: center;
-}
 .cellphoneimage,
-.campimage {
+.campimage,
+.comingsoon,
+.video {
   text-align: center;
 }
 .comingsoon {
