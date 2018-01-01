@@ -7,6 +7,7 @@ h2.pointsofinterest{
   font-family: Verdana;
   font-size: 21px;
   color: gray;
+  text-align: center;
 }
 h1.header {
   font-family: Verdana;
@@ -21,6 +22,6 @@ h1.travelguide {
   font-size: 42px;
 }
 .footer {
-  text-align: center;
+  text-align: right;
   color: gray;
 }
