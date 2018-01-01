@@ -21,6 +21,7 @@ h1.travelguide {
   font-weight: 300;
   font-size: 42px;
   text-align: center;
+  color: white;
 }
 .footer {
   text-align: right;
@@ -32,6 +33,10 @@ body {
 .video {
   text-align: center;
 }
-.cellphoneimage {
+.cellphoneimage,
+.campimage {
   text-align: center;
+}
+.comingsoon {
+  color: white;
 }
