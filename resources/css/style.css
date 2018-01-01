@@ -39,6 +39,6 @@ body {
 }
 .comingsoon {
   color: white;
-  font-size: 42px;
+  font-size: 42px !important;
   font-family: Verdana; sans-serif;
 }
